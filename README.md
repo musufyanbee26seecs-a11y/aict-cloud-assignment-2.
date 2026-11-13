@@ -1,2 +1,4 @@
-# aict-cloud-assignment-2.
-A Python mini-project for CS-117 (Applications of ICT) that calculates basic statistics from sensor readings and demonstrates cloud workflow integration using Google Colab, GitHub, and GitHub Pages.
+# Cloud Tools Mini Project
+This project calculates the count, minimum, maximum, and average of a set of sensor readings.
+**Readings:** [22, 24, 26, 28, 30]
+**How to run:** Open the provided notebook in Google Colab and run the cell.
